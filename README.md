@@ -5,7 +5,7 @@ This is a project that can recognise the American Sign Language (ASL) numbers fr
 
 ## Method
 - cv2 library is used to recognise the hand and return the 21 coordinates
-- write .py file to record the coordinates and write them into a .csv file and label them with corresponding numbers
+- write .py file to collect the coordinates and write them into a .csv file and label with corresponding numbers
 - split the .csv dataset into training and testing parts
 - build the neural network:
   - hidden layers activation function: relu
